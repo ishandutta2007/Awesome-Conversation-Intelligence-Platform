@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Conversation-Intelligence-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversation-Intelligence-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversation-Intelligence-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversation-Intelligence-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversation-Intelligence-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Conversation-Intelligence-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversation-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Conversation-Intelligence-Platform?style=flat-square" alt="Last Commit"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,9 +62,9 @@ Below are major commercial conversation intelligence and AI meeting assistant Sa
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source ecosystem for conversation intelligence is rapidly maturing in **local-first transcription, AI meeting bots, and conversation analytics**. The following projects are ordered descending by **GitHub Stars**:
+The open-source ecosystem for conversation intelligence is rapidly maturing in **local-first transcription, AI meeting bots, and conversation analytics**. The following projects are ordered descending by **GitHub_Stars**:
 
-| Project Name | GitHub Stars 🌟 | License 📜 | Category / Architecture 🏗️ | Project Description & Key Features 🔍 |
+| Project Name | GitHub_Stars 🌟 | License 📜 | Category / Architecture 🏗️ | Project Description & Key Features 🔍 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Meetily](https://github.com/Zackriya-Solutions/meeting-minutes)** 🏆 | [![Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=social&color=white)](https://github.com/Zackriya-Solutions/meeting-minutes/stargazers) | MIT | Local-First Meeting Assistant | **Most starred open-source meeting note-taker**. Runs completely locally: uses Whisper and Parakeet models for 4x real-time transcription, with Ollama generating summaries on-device. Captures mic and system audio, auto-configures GPU acceleration, supports macOS & Windows. |
 | **[WhisperX](https://github.com/m-bain/whisperX)** ⚡ | [![Stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social&color=white)](https://github.com/m-bain/whisperX/stargazers) | BSD-2-Clause | Speech Transcription & Speaker Diarization | Ultra-fast Whisper speech recognition pipeline with word-level timestamps and VAD speaker diarization; core underlying library for building conversation intelligence systems. |
@@ -92,7 +92,7 @@ For teams looking to build custom, privacy-first, or self-hosted conversation in
 
 1. Fork the repository 🍴
 2. Add/edit entries in `README.md` (following existing table formatting)
-3. Include: Name, official link, price/Star count, short factual description
+3. Include: Name, official link, price/Stars_Count, short factual description
 4. Submit a Pull Request with a brief explanation 🚀
 
 ---
